@@ -17,7 +17,7 @@ Análise completa R$27M usando o dataset Sales Report (Kaggle) para lojas de com
 <img width="1023" height="571" alt="Captura de tela 2026-03-09 115139" src="https://github.com/user-attachments/assets/065fa12f-4055-4b8e-b5de-fd98d18c3238" />
 
 ## Link Interativo
-https://lggo-my.sharepoint.com/:u:/r/personal/ti_alice_santos_lg_com_br/Documents/%C3%81rea%20de%20Trabalho/Meus%20projetos/Dashboard%20Lojas%20Vendas%20BR.pbix?csf=1&web=1&e=GtxIJU 
+https://app.powerbi.com/groups/me/reports/603e5ede-c477-463e-b634-148fd734bd74?ctid=c990e1b5-af3d-45da-b8fa-632cb925a168&pbi_source=linkShare    
 
 ## Skills
 DAX (SUM/DISTINCTCOUNT/DIVIDE), Modelagem, Design roxo
