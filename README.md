@@ -1,6 +1,6 @@
 
 # Dashboard Análise Vendas Power BI
-Análise completa R$27M (Kaggle Sales Report)
+Análise completa R$27M usando o dataset Sales Report (Kaggle) para lojas de combustível.
 
 ## Funcionalidades
 - Dashboard: KPIs + Evolução mensal
